@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Cleitone%20Santos&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%Analyst%20%20%7C%20Problem%20Solver%20%7C%20Data%Engineer&descAlignY=55&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:1a0533,60:0d1b4b,100:0a2a1a&height=250&section=header&text=Cleiton%20Santos&fontSize=55&fontColor=00e5ff&fontAlignY=38&stroke=00e5ff&strokeWidth=2&desc=📊%20Data%20Analyst%20%7C%20🔧%20Data%20Engineer%20%7C%20💡%20BI%20Developer&descAlignY=58&descSize=19&descColor=a78bfa&animation=twinkling" />
 
 <br/>
 
@@ -101,13 +101,6 @@ const cleitone = {
 </div>
 
 ---
-
-## 🐍 Snake de Contribuições
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/CleitoneSantos/CleitoneSantos/output/github-contribution-grid-snake-dark.svg)
-
 </div>
 
 ---
