@@ -5,10 +5,12 @@
 
 <br/>
 
+
+<br/>
+
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cleitonesantos)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleiton.worky@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://seusite.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CleitoneSantos)
 
 <br/>
@@ -20,7 +22,6 @@
 ---
 
 ## 🧑‍💻 Sobre Mim
-
 ```typescript
 const cleitone = {
   localização:   "Brasil 🇧🇷",
@@ -59,7 +60,7 @@ const cleitone = {
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-**Banco de Dados & DevOps**
+**Banco de Dados & Engenharia**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -77,7 +78,6 @@ const cleitone = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleitoneSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleitoneSantos&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 </div>
@@ -90,17 +90,12 @@ const cleitone = {
 
 ---
 
----
-
 ## 📈 Atividade de Contribuição
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CleitoneSantos&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CleitoneSantos&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
-
----
 </div>
 
 ---
@@ -109,8 +104,8 @@ const cleitone = {
 
 <div align="center">
 
-> *"Primeiro, resolva o problema. Então, escreva o código."*
-> — **John Johnson**
+> *"In God we trust; all others must bring data."*
+> — **W. Edwards Deming**
 
 </div>
 
@@ -118,7 +113,7 @@ const cleitone = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a2a1a,50:0d1b4b,100:0a0a0a&height=120&section=footer&animation=twinkling" />
 
 **✨ Obrigado por visitar meu perfil! ✨**
 
